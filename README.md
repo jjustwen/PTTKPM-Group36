@@ -1,2 +1,3 @@
 "# PTTKPM-Group36"
-Mem: Quoc Anh, Danh, Thinh, Duong
+Lead: Quoc Anh
+Mem: Danh, Thinh, Duong
