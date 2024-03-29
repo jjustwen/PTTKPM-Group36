@@ -1,0 +1,17 @@
+
+1. Mô tả và yêu cầu chức năng cho toàn hệ thống (system requirements)–Phân biệt rõ functional requirements và non-functional requirements cho hệ thống
+2. Các giả định(assumption), giới hạn, phạm vi của hệ thống (Scope of the system)
+3. Yêu cầu của người dùng với hệ thống (user requirements) 
+4. Xác định các actor cho hệ thống, vẽ use case cho từng actor (tối thiểu 2 actor và 20 use case cho toàn hệ thống)
+	4.1. Đặc tả các use case
+	4.2. Vẽ bảng ma trận giữa người dùng và usecase của hệ thống 
+	4.3. Vẽ và giải thích sơ đồ tuần tự (Sequence diagram) cho hệ thống cho khoảng 10 use case
+	4.4. Vẽ sơ đồ trạng thái (State machine diagram)
+	4.5. Vẽ và giải thích sơ đồ Activity diagram cho khoảng 10 use case
+
+5. Thiết kế và đặc tả sơ đồ ERD – hệ thống có tối thiểu phải có 06 thực thể 
+6. Giao diện wireframe cho hệ thống (Sử dụng draw.io để vẽ hoặc các tools tương ứng)
+7. Ảnh chụp màn hình các lần commit trên source control system của các thành viên trong nhóm
+8. Kết luận các ưu và nhược điểm của hệ thống cũng như những cải tiến cần thiết
+9. Tài liệu tham khảo
+10. Bảng phân công công việc của các thành viên trong nhóm
